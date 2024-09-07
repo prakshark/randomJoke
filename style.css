@@ -1,0 +1,46 @@
+body{
+    background-color: darkblue;
+    color: white;
+}
+
+*{
+    text-align: center;
+    font-family: "Happy Monkey", system-ui;
+}
+
+.setup{
+    font-size: large;
+}
+.punchline{
+    font-size: larger;
+}
+
+h4{
+    position: absolute;
+    bottom: 3vh;
+}
+
+button{
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.joke{
+    position: absolute;
+    top: 40vh;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+
+footer{
+    position: absolute;
+    bottom: 20px;
+}
